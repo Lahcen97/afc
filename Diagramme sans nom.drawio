@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T16:58:12.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="A9TgwSAEDRQAp2SsOTO3" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T16:59:26.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="WXKH5D8phlXXUy6YTzc2" version="22.0.8" type="github">
   <diagram name="Page-1" id="l3E4NXDpPLonG4dHDVBj">
     <mxGraphModel dx="2049" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gL1jmg-TQgur59S-B341-250" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="-170" width="1850" height="860" as="geometry" />
+        </mxCell>
         <mxCell id="gL1jmg-TQgur59S-B341-225" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#d79b00;fillColor=#ffffff;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="-100" width="1510" height="720" as="geometry" />
         </mxCell>
@@ -312,9 +315,6 @@
         <mxCell id="gL1jmg-TQgur59S-B341-114" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="661.39" y="254.08" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gL1jmg-TQgur59S-B341-124" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;mxp.invoice_docs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1087.0047403800777" y="-304.6751906191389" width="216.7076061903194" height="23.67519061913891" as="geometry" />
-        </mxCell>
         <mxCell id="PdyB9XB3RFuWe4hM4mvE-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="404.45" y="-8" as="sourcePoint" />
@@ -439,9 +439,6 @@
         </mxCell>
         <mxCell id="gL1jmg-TQgur59S-B341-201" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Replication of MxP with DMS&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="316" y="143.19999999999996" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gL1jmg-TQgur59S-B341-206" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;mxp.invoic&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1087.0047403800777" y="-281.6551906191389" width="216.7076061903194" height="23.67519061913891" as="geometry" />
         </mxCell>
         <mxCell id="gL1jmg-TQgur59S-B341-182" value="&lt;b&gt;Ponant VPN &amp;gt;VPC&lt;br&gt;connection&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transit_gateway;" vertex="1" parent="1">
           <mxGeometry x="275" y="224.68" width="53" height="53" as="geometry" />
